@@ -5,9 +5,9 @@
     tools:context="com.linshengt.clock.Time">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="这是一个时钟" />
 
+    <com.linshengt.clock.MyView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
 </FrameLayout>
